@@ -2,7 +2,7 @@
 
 ## Description
 
-Launch Steam game
+Launch Steam game. The action itself gets the list of your installed games. And when you select a game to launch, it gets the game image automatically from steam servers.
 
 ## Properties
 
@@ -46,3 +46,4 @@ node test_action.js
     ]
 }
 ```
+![](photo.jpg)
