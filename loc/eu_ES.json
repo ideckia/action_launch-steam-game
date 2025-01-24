@@ -1,0 +1,18 @@
+[
+	{
+		"id": "action_description",
+		"text": "Steam-eko joko bat abiarazi"
+	},
+	{
+		"id": "prop_game",
+		"text": "Abiarazi nahi duzun jokoa"
+	},
+	{
+		"id": "game_not_found_title",
+		"text": "Jokoa ez da aurkitu"
+	},
+	{
+		"id": "game_not_found_body",
+		"text": "Ezin da [{0}] jokoa abiarazi, ezin izan baita bere appid-a lortu"
+	}
+]

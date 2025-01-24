@@ -1,0 +1,18 @@
+[
+	{
+		"id": "action_description",
+		"text": "Launch Steam game"
+	},
+	{
+		"id": "prop_game",
+		"text": "Game you want to launch"
+	},
+	{
+		"id": "game_not_found_title",
+		"text": "Game not found"
+	},
+	{
+		"id": "game_not_found_body",
+		"text": "Can't launch [{0}] because could not retrive the appid"
+	}
+]
